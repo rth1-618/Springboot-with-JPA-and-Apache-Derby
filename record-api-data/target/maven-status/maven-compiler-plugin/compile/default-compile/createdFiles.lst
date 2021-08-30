@@ -1,0 +1,5 @@
+test\sbqs\records\Records.class
+test\sbqs\records\RecordsService.class
+test\sbqs\records\RecordRepository.class
+test\sbqs\RecordApiDataApplication.class
+test\sbqs\records\RecordController.class
